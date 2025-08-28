@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Welcome to My GitHub!
 
-<!--
-**sasikumar272004/sasikumar272004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m **Sasi Kumar Kolli**  
+🎓 Final-year BCA student @ GITAM School of Science  
+💻 MERN Stack Developer | Designer | DSA Enthusiast  
 
-Here are some ideas to get you started:
+✨ Thanks for visiting my profile — You’re visitor number below 👇
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat)
+
+### 📊 GitHub Stats
+![Sasi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
