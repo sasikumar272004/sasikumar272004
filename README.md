@@ -19,25 +19,9 @@ Hi, I’m <strong>Sasi Kumar Kolli</strong><br/>
   <img src="https://komarev.com/ghpvc/?username=sasikumar272004&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<div align="center" style="margin: 20px 0;">
-  <hr style="border: 2px solid; border-image: linear-gradient(to right, #ff6a00, #ee0979, #6a11cb) 1;">
-</div>
 
-<h2 align="center">
-  📊 GitHub Stats
-</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sasikumar272004&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6&icon_color=50fa7b" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasikumar272004&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff79c6" alt="Top Languages" />
-</p>
-
-<div align="center" style="margin: 20px 0;">
-  <hr style="border: 2px solid; border-image: linear-gradient(to right, #6a11cb, #ff0080, #ffb347) 1;">
-</div>
 
 
 
