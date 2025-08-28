@@ -5,7 +5,7 @@
 <h1 align="center">👋 Welcome to My GitHub!</h1>
 <p align="center">
 Hi, I’m <strong>Sasi Kumar Kolli</strong><br/>
-
+🎓 BCA student @ GITAM School of Science<br/>
 💻 MERN Stack Developer | Designer | DSA Enthusiast<br/>
 </p>
 
